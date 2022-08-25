@@ -33,8 +33,7 @@ class Song
       end
       artist_count
   
-      # with #tally
-      # @@artists.tally
+     
     end
   
     def self.genres
@@ -52,7 +51,6 @@ class Song
       end
       genre_count
   
-      # with #tally
-      # @@genres.tally
+     
     end
   end
